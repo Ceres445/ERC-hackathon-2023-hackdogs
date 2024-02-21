@@ -4,7 +4,7 @@
 ## Team Members (Alphabetical)
  - [Druva D](./reports/Druva.md)
  - Amod Gawade
- - Param Gandhi
+ - [Param Gandhi](https://github.com/Pamdi8888)
  - [Anand Hariharan](https://1drv.ms/w/s!AhugIppSSs8ygwLjTqBE-Uh8sa5k?e=clWnEg)
  - [Atul M](./reports/Atul.md)
  - [Padi Sudeep](https://1drv.ms/w/s!AhugIppSSs8ygwLjTqBE-Uh8sa5k?e=clWnEg)
